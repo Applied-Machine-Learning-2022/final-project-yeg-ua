@@ -2,18 +2,17 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+# AIML Student Detection, Tracking & Counting
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University of Arkansas`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Ellion Dison](https://github.com/ecdison) - `University of Arkansas`
+- [Yasser Hassan](https://github.com/Yasserjr11) - `Virginia Tech` 
+- [Gabriel Young](https://github.com/gabrielyoung02) - `University of Arkansas` 
 
 ## Description
 <!--
