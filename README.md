@@ -18,12 +18,12 @@ Developed by:
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-
+The goal of this project is to detect and count the number of students in a classroom. To accomplish this, we used object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a state-of-the-art algorithm that uses deep convolutional neural networks to perform object detections. The YOLO algorithm works by dividing the image into N grids, each having an equal dimensional region of SxS. Each of these N grids is responsible for the detection and localization of the object it contains. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
+## Demo of tracker on humans
+<p align="center"><img src="palace-sample.gif"\></p>
 ## Usage instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
-1. Fork this repo
-2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+- Run the yolov4-Deepsort.ipynb notebook in Google Colab.
+- You must input a mp4 video or you will need a webcam to track people for this model.
